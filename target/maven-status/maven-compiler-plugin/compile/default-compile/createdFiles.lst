@@ -1,0 +1,9 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repository/UserRepository.class
+com/example/demo/controller/HelloController.class
+com/qa/pages/MyNewPage.class
+com/qa/pages/Home.class
+com/example/demo/controller/UserController.class
+com/qa/libs/Test.class
+com/example/demo/entity/User.class
+com/qa/util/TestUtil.class
